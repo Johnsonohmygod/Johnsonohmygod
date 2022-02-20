@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnsonohmygod
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning program
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
